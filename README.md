@@ -1,3 +1,3 @@
-GitHub Pages of [aiven/pghoard](https://github.com/aiven/pghoard.git)
+GitHub Pages of [verify-throwaway/pghoard](https://github.com/verify-throwaway/pghoard.git)
 ===
-Sphinx html documentation of [fd6f9be2](https://github.com/aiven/pghoard/tree/fd6f9be229b0f2de278a86a6c2cb6d9474b496eb)
+Sphinx html documentation of [af94873b](https://github.com/verify-throwaway/pghoard/tree/af94873b121af3945e0614365017ddb2d3392945)
