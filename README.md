@@ -1,3 +1,3 @@
 GitHub Pages of [verify-throwaway/pghoard](https://github.com/verify-throwaway/pghoard.git)
 ===
-Sphinx html documentation of [f62d3702](https://github.com/verify-throwaway/pghoard/tree/f62d370280c492a80939eaa120fad5aa4bfd43d2)
+Sphinx html documentation of [2a184f09](https://github.com/verify-throwaway/pghoard/tree/2a184f09c5e3291bac08aeefb7a847c2f677c524)
